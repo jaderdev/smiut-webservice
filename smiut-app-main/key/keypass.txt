@@ -1,0 +1,7 @@
+name: private-key-android-studio
+password: 159753
+
+key:
+alias:key0
+password:159753
+FirstLastName: Carmino Neto
